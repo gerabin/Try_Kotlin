@@ -1,0 +1,8 @@
+
+*.kotlin_module
+*.class
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/libraries/KotlinJavaRuntime.xml
